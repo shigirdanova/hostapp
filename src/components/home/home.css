@@ -1,0 +1,10 @@
+.home {
+	text-align: center;
+}
+
+.mfeArea {
+	margin: 0 30px;
+	padding-top: 30px;
+
+	border-top: 1px solid black;
+}

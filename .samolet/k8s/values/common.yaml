@@ -1,0 +1,26 @@
+samolet:
+  metadata:
+    # Описание сервиса
+    description: "HostApp"
+    # severity level (LOW/MEDIUM/HIGH)
+    severityLevel: "LOW"
+    # business owner name (en)
+    businessOwnerName: ---
+    # business owner email
+    businessOwnerEmail: ---
+    # business owner telegram (@name)
+    businessOwnerTelegram: ---
+    # technical owner name (en)
+    technicalOwnerName: ---
+    # technical owner email
+    technicalOwnerEmail: ---
+    # technical owner telegram (@name)
+    technicalOwnerTelegram: ---
+    # project telegram chanel name (link)
+    tgChannel: ---
+    # monitoring dashboard url (e.g. grafana link)
+    monitoringDashboardUrl: ---
+    # project confluence url
+    confluenceUrl: ""
+    # jira board url
+    jiraBoardUrl: ---
